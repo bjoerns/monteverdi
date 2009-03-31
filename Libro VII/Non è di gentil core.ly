@@ -1,5 +1,5 @@
 % Created on Sun Mar 08 20:39:17 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Non è di gentil core"

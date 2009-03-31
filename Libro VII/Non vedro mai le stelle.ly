@@ -1,5 +1,5 @@
 % Created on Fri Mar 06 16:16:38 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Non vedrò mai le stelle"

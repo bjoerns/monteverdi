@@ -1,5 +1,5 @@
 % Created on Sun Mar 08 10:25:02 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Dice la mia belissima Licori"

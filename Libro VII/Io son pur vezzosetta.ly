@@ -1,5 +1,5 @@
 % Created on Fri Mar 13 19:42:38 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Io son pur vezzosetta"

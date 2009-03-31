@@ -1,5 +1,5 @@
 % Created on Wed Feb 18 22:48:42 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Vorrei baciarti"

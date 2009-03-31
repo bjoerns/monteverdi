@@ -1,5 +1,5 @@
 % Created on Mon Mar 02 22:40:50 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "Tempro la cetra"

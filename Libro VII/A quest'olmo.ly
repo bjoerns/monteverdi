@@ -1,5 +1,5 @@
 % Created on Sat Mar 07 19:32:21 CET 2009
-\version "2.12.1"
+\version "2.12.2"
 
 \header {
 	title = "A quest'olmo"
