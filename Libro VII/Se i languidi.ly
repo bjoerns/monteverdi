@@ -3,7 +3,7 @@
 
 \header {
 	title = "Se i languidi miei sguardi"
-	subtitle = "Lettera amorosa a voce sola in genere represenativo"
+	subtitle = \markup \center-column{"Lettera amorosa a voce sola in genere represenativo" "e si canta senza battuta"}
 	composer = "Claudio Monteverdi (1567-1643)"
 	style = "Renaissance"
 	copyright = "Creative Commons Attribution-ShareAlike 3.0"

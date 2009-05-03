@@ -2,8 +2,8 @@
 \version "2.12.2"
 
 \header {
-	title = "Se pur destina"
-	subtitle = "Partenza amorosa a voce sola"
+	title = "Partenza amorosa"
+	subtitle = \markup \center-column{"a voce sola" "in genere rappresentativo" "e si canta senza battuta"}
 	composer = "Claudio Monteverdi (1567-1643)"
 	style = "Renaissance"
 	copyright = "Creative Commons Attribution-ShareAlike 3.0"
